@@ -1,3 +1,11 @@
+td{
+    background-color: #0c131b;
+    text-align: center;
+}
+.img1{
+    background-color: #0c131b;
+    text-align: center;
+}
 .h1{
     font-size: 55px;
     color: #20b4bb;
@@ -29,4 +37,17 @@
 .text1_a{
     color: #fa5d26;
     font-weight: bold;
+}
+.h3{
+    font-size: 36px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+    text-transform: uppercase;
+}
+.text2{
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    font-family: "Arial";
 }
