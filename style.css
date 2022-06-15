@@ -1,0 +1,32 @@
+.h1{
+    font-size: 55px;
+    color: #20b4bb;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    background-color: #0c131b;
+}
+.h2{
+    font-size: 36px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    background-color: #0c131b;
+}
+.text1{
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    font-family: "Arial";
+    background-color: #0c131b;
+}
+.span1{
+    color: #e8a336;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.text1_a{
+    color: #fa5d26;
+    font-weight: bold;
+}
