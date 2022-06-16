@@ -1,3 +1,6 @@
+table{
+    border-collapse: collapse;
+}
 td{
     background-color: #0c131b;
     text-align: center;
@@ -40,6 +43,7 @@ img{
 .text1_a{
     color: #fa5d26;
     font-weight: bold;
+    font-family: sans-serif;
 }
 .h3{
     font-size: 36px;
@@ -69,4 +73,63 @@ img{
     font-family: "Arial";
     font-weight: bold;
     font-size: 30px;
+}
+.img{
+    padding-top: 20px;
+}
+.h6{
+    font-size: 11px;
+    line-height: 22px;
+    color: #85908c;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.h7{
+    font-size: 36px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.text4{
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    padding-top: 30px;
+}
+.line{
+    padding-top: 50px;
+    width: 100%;
+    vertical-align: bottom;
+}
+.lh1{
+    padding-top: 30px;
+    font-size: 36px;
+    color: #263870;
+    font-weight: bold;
+    font-family: "Arial";
+    background-color: #eed3a8;
+}
+.text_all{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.lh2{
+    font-size: 14px;
+    line-height: 22px;
+    color: #000000;
+    font-family: "Arial";
+    background-color: #eed3a8;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.la1{
+    color: #b25000;
+}
+.la2{
+    color: #b25000;
+    text-decoration: none;
 }
