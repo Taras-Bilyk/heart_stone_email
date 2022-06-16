@@ -2,6 +2,9 @@ td{
     background-color: #0c131b;
     text-align: center;
 }
+img{
+    background-color: #0c131b;
+}
 .img1{
     background-color: #0c131b;
     text-align: center;
@@ -50,4 +53,20 @@ td{
     line-height: 22px;
     color: #86918c;
     font-family: "Arial";
+    padding-bottom: 20px;
+}
+.button{
+    background-repeat: no-repeat;
+}
+.h4{
+    color: #9f15a9;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.h5{
+    color: #bcbcbd;
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 30px;
 }
