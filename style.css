@@ -1,5 +1,6 @@
 table{
     border-collapse: collapse;
+    background-color: #0c131b;
 }
 td{
     background-color: #0c131b;
@@ -13,6 +14,7 @@ img{
     text-align: center;
 }
 .h1{
+    line-height: 60px;
     font-size: 55px;
     color: #20b4bb;
     font-weight: bold;
@@ -34,6 +36,7 @@ img{
     color: #86918c;
     font-family: "Arial";
     background-color: #0c131b;
+    text-align: left;
 }
 .span1{
     color: #e8a336;
@@ -58,6 +61,7 @@ img{
     color: #86918c;
     font-family: "Arial";
     padding-bottom: 20px;
+    text-align: left;
 }
 .button{
     background-repeat: no-repeat;
@@ -67,6 +71,9 @@ img{
     font-size: 55px;
     font-weight: bold;
     font-family: "Arial";
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 60px;
 }
 .h5{
     color: #bcbcbd;
@@ -75,7 +82,7 @@ img{
     font-size: 30px;
 }
 .img{
-    padding-top: 20px;
+    margin-top: 20px;
 }
 .h6{
     font-size: 11px;
@@ -83,6 +90,7 @@ img{
     color: #85908c;
     font-weight: bold;
     font-family: "Arial";
+    padding-top: 10px;
 }
 .h7{
     font-size: 36px;
@@ -95,9 +103,9 @@ img{
     line-height: 22px;
     color: #86918c;
     padding-top: 30px;
+    text-align: left;
 }
 .line{
-    padding-top: 50px;
     width: 100%;
     vertical-align: bottom;
 }
@@ -110,10 +118,16 @@ img{
     background-color: #eed3a8;
 }
 .text_all{
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.h1,
+.h7{
+    padding-left: 30px;
+    padding-right: 30px;
 }
 .lh2{
     font-size: 14px;
@@ -121,8 +135,8 @@ img{
     color: #000000;
     font-family: "Arial";
     background-color: #eed3a8;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -132,4 +146,23 @@ img{
 .la2{
     color: #b25000;
     text-decoration: none;
+}
+.icons{
+    font-size: 0;
+    background-color: #eed3a8;
+}
+.footer{
+    width: 100%;
+    background-color: #eed3a8;
+    padding-top: 20px;
+}
+.img100p{
+    width: 100%;
+}
+.t2{
+    background-color: #eed3a8;
+}
+.m{
+    margin-bottom: 50px;
+    vertical-align: bottom;
 }
